@@ -137,3 +137,10 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
+
+/* alteraçao do botao acessibilidade/*
+.meu-acessibilidade{ 
+position: fixed;
+top: 2rem;
+
+}
